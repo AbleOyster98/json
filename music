@@ -1,4 +1,5 @@
 {
+  "name": "korey's Library"
   "songs": [
     {
       "url": "https://drive.google.com/open?id=16IuuxjpQ9uKUcpzgBietkWys0lyojNoe",
@@ -272,6 +273,5 @@
       "author": "The Beach Boys",
       "name": "The Beach Boys - Wouldnt It Be Nice"
     }
-  ],
-  "name": "korey's Library"
+  ]
 }
